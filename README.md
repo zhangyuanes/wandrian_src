@@ -124,3 +124,7 @@ $ rosrun kobuki_ftdi create_udev_rules
 
 [1]: https://github.com/sontdhust/wandrian_src
 [2]: http://wiki.ros.org/indigo/Installation/Ubuntu
+
+# references
+
+[youtube](https://www.youtube.com/watch?v=qeZ3WLrHANY)
